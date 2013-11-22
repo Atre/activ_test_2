@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+
+form {
+    height: 100%;
+    margin-top: 10%;
+    text-align: center;
+}
+
+#text {
+    height: 120px;
+    width: 40%;
+}
+
+.err {
+    font-size: smaller;
+    color: red;
+}
